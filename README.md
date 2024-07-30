@@ -1,4 +1,4 @@
-## Oiii galeraa seja bem vindos ao meu perfil 🧡
+## Oiii galeraa, seja bem vindos ao meu perfil 🧡
 
 Meu nome é Pietra Emanoelle
 
