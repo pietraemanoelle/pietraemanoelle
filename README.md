@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oiii galeraa seja bem vindos ao meu perfil 🧡
 
-<!--
-**pietraemanoelle/pietraemanoelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pietra Emanoelle
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo 📧
+
+  00001115954428sp@al.educacao.sp.gov.br
+  
+  @pietraoliveiira
+
+![](https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif)
+https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif
