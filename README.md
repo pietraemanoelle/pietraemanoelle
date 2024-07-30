@@ -6,11 +6,10 @@ Meu nome é Pietra Emanoelle
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos;
 
-  ### você pode entrar em contato comigo 📧
+  ### Você pode entrar em contato comigo 📧
 
   00001115954428sp@al.educacao.sp.gov.br
   
   @pietraoliveiira
 
 ![](https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif)
-https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif
